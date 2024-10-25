@@ -13,7 +13,7 @@ A Neovim plugin for seamless clipboard syncing between local and remote machines
     - [On the remote machine:](#on-the-remote-machine)
     - [Establish the SSH connection:](#establish-the-ssh-connection)
   - [Installation](#installation)
-    - [Using [lazy.nvim](https://github.com/folke/lazy.nvim)](#using-lazynvimhttpsgithubcomfolkelazynvim)
+    - [Using lazy.nvim:](#using-lazynvimhttpsgithubcomfolkelazynvim)
     - [Manual Installation](#manual-installation)
   - [Usage](#usage)
   - [Configuration](#configuration)
