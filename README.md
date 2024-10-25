@@ -1,4 +1,4 @@
-# clip2nc
+# clip2nc - Remote Neovim Clipboard Syncing
 
 A Neovim plugin for seamless clipboard syncing between local and remote machines (Mac or Linux) over SSH.
 
